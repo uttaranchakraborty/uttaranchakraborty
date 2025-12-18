@@ -97,7 +97,7 @@
 
 <p align="center">
   <a href="https://github.com/M1778M">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=M1778M&&theme=tokyonight" alt="M1778M" />
+    <img src="https://th.bing.com/th/id/R.690cc1be16ca81e5469478568285a8c0?rik=Nn9lGwfguFrAfQ&riu=http%3a%2f%2fwww.techsors.com%2fwp-content%2fuploads%2f2016%2f02%2fApp-Development.jpg&ehk=0sdniDNf1wqJV3WlinK7vbb8lYBLEfpjahXQMmaR8jU%3d&risl=&pid=ImgRaw&r=0" alt="UTTARAN" />
   </a>
 </p>
 
