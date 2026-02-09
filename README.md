@@ -1,6 +1,7 @@
 <h2 align="left">
 I am Uttaran 
-<img src=" <img width="1080" height="1080" alt="Skull-PNG" src="https://github.com/user-attachments/assets/6ecc9bdd-095e-4d5c-9e71-e782fe5f0612"/>" width="80">
+<img src="<img width="1080" height="1080" alt="Skull-PNG" src="https://github.com/user-attachments/assets/356fc843-3fc9-4269-9d56-718f323be7fc"/>
+ " width="80">
 <span style="color:#ff3b3b;"> A normal developer :(</span>
 <img src="https://komarev.com/ghpvc/?username=M1778M&label=Profile%20views&color=ff0000&style=flat"/>
 </h2>
