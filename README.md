@@ -20,9 +20,14 @@ I am Uttaran
 
 <p align="center">
 <a href="https://github.com/uttaranchakraborty">
-  <img width="900" src="https://github.com/user-attachments/assets/596e0e2e-c5c4-43a5-bb83-6ecdb9eddc86"/>
+  <img 
+    src="https://github.com/user-attachments/assets/596e0e2e-c5c4-43a5-bb83-6ecdb9eddc86"
+    width="900"
+    height="260"
+    style="object-fit:cover; border-radius:10px;">
 </a>
 </p>
+
 
 
 <div align="center" style="
