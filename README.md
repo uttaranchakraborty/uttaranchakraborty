@@ -1,6 +1,6 @@
 <h2 align="left">
 I am Uttaran 
-<img src="![Best Animations](https://github.com/user-attachments/assets/57f88d14-27ae-4152-9002-2ebd2ae1c625)" width="40">
+<img src="https://media.tenor.com/WaFFcNK2rPUAAAAM/skull-caveira.gif" width="40">
 <span style="color:#ff3b3b;"> A normal developer :(</span>
 <img src="https://komarev.com/ghpvc/?username=M1778M&label=Profile%20views&color=ff0000&style=flat"/>
 </h2>
