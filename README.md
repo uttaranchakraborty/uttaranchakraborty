@@ -203,15 +203,3 @@ I am Uttaran
   </a>
 </div>
 
-<br clear="both">
-
-[![M1778M](https://github-readme-activity-graph.vercel.app/graph?username=M1778M&bg_color=0d0000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)](https://github.com/M1778M)
-
-<p align="center">
-  <a href="https://github.com/M1778M">
-    <img src="https://th.bing.com/th/id/R.690cc1be16ca81e5469478568285a8c0?pid=ImgRaw&r=0" />
-  </a>
-</p>
-
-<h3 align="center" style="color:#ff3b3b;">... I like making stuff. Cool stuff.</h3>
-
