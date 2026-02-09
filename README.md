@@ -1,6 +1,6 @@
 <h2 align="left">
 I am Uttaran 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnI4Ym5xbW96OG45dWxhd3FtMzZ0bWY5NTI5Z2p2azl3aGNqd2R2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsCevAab5ufj37BeGR/giphy.gif?v=3" width="40">
+<img src="![Best Animations](https://github.com/user-attachments/assets/57f88d14-27ae-4152-9002-2ebd2ae1c625)" width="40">
 <span style="color:#ff3b3b;"> A normal developer :(</span>
 <img src="https://komarev.com/ghpvc/?username=M1778M&label=Profile%20views&color=ff0000&style=flat"/>
 </h2>
