@@ -7,14 +7,23 @@ I am Uttaran
 
 
 <p align="center">
-<a href="https://github.com/uttaranchakraborty">
   <img 
-    src="https://github.com/user-attachments/assets/596e0e2e-c5c4-43a5-bb83-6ecdb9eddc86"
-    width="900"
-    height="260"
-    style="object-fit:cover; border-radius:10px;">
-</a>
+    src="https://images.steamusercontent.com/ugc/939432316730598692/998DF3BE9614B453D17E9776752BB36BCE2C8970/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    width="720"
+    style="margin-left:140px;">
 </p>
+
+
+  <div style="
+    margin-top:12px;
+    height:3px;
+    width:65%;
+    background:linear-gradient(90deg,transparent,#ff003c,transparent);
+    box-shadow:0 0 12px #ff003c;
+  "></div>
+
+</div>
+
 
 
 
