@@ -27,18 +27,6 @@ I am Uttaran
 
 
 
-<p align="center">
-<a href="https://github.com/uttaranchakraborty">
-  <img 
-    src="https://github.com/user-attachments/assets/596e0e2e-c5c4-43a5-bb83-6ecdb9eddc86"
-    width="900"
-    height="260"
-    style="object-fit:cover; border-radius:10px;">
-</a>
-</p>
-
-
-
 <div align="center" style="
   width:88%;
   margin:auto;
@@ -150,6 +138,18 @@ I am Uttaran
 </tr>
 </table>
 
+
+<p align="center">
+<a href="https://github.com/uttaranchakraborty">
+  <img 
+    src="https://github.com/user-attachments/assets/596e0e2e-c5c4-43a5-bb83-6ecdb9eddc86"
+    width="900"
+    height="260"
+    style="object-fit:cover; border-radius:10px;">
+</a>
+</p>
+
+
 <h3 style="color:#ff3b3b;">Additional Skills:</h3>
 
 - Network+ & Network Security (Basic)  
@@ -176,6 +176,8 @@ I am Uttaran
 </table>
 
 <br/>
+
+
 
 <h3 style="color:#ff3b3b;">Connect:</h3>
 
