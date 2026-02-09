@@ -20,7 +20,29 @@ I am Uttaran
 </a>
 </p>
 
-<h3 style="color:#ff3b3b;">All Skills:</h3>
+<div align="center" style="
+  border:2px solid rgba(255,0,0,0.4);
+  border-radius:18px;
+  padding:28px;
+  width:85%;
+  margin:auto;
+  background: linear-gradient(135deg,#0d0000,#120012,#000000);
+  box-shadow: 0 0 25px rgba(255,0,0,0.25);
+">
+  <h1 style="
+    margin:0;
+    font-size:48px;
+    font-weight:800;
+    letter-spacing:2px;
+    background: linear-gradient(90deg,#ff003c,#ff4d6d,#ff003c);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+    text-shadow:0 0 18px rgba(255,0,0,0.35);
+  ">
+    My Programming Languages
+  </h1>
+</div>
+
 
 <table>
 <tr>
