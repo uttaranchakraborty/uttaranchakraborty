@@ -65,7 +65,7 @@ I am Uttaran
       0 0 25px rgba(0,255,140,0.9),
       0 0 45px rgba(0,255,140,0.6);
   ">
-    MY PROGRAMMING LANGUAGES
+    THINGS I KNOW ![ jack of all trades :) ]
   </h1>
 
   <div style="
