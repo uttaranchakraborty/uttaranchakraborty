@@ -21,27 +21,43 @@ I am Uttaran
 </p>
 
 <div align="center" style="
-  border:2px solid rgba(255,0,0,0.4);
-  border-radius:18px;
-  padding:28px;
-  width:85%;
+  width:88%;
   margin:auto;
-  background: linear-gradient(135deg,#0d0000,#120012,#000000);
-  box-shadow: 0 0 25px rgba(255,0,0,0.25);
+  padding:34px 20px;
+  border-radius:22px;
+  background: radial-gradient(circle at top,#1a0000,#0a0014 60%,#000000);
+  border:1.5px solid rgba(255,0,60,0.35);
+  box-shadow:
+    0 0 30px rgba(255,0,60,0.30),
+    inset 0 0 35px rgba(255,0,60,0.15);
 ">
+
   <h1 style="
     margin:0;
-    font-size:48px;
-    font-weight:800;
-    letter-spacing:2px;
-    background: linear-gradient(90deg,#ff003c,#ff4d6d,#ff003c);
+    font-size:54px;
+    font-weight:900;
+    letter-spacing:3px;
+    text-transform:uppercase;
+    background: linear-gradient(90deg,#ff003c,#ff4d8d,#ff003c);
     -webkit-background-clip:text;
     -webkit-text-fill-color:transparent;
-    text-shadow:0 0 18px rgba(255,0,0,0.35);
+    text-shadow:
+      0 0 12px rgba(255,0,60,0.7),
+      0 0 28px rgba(255,0,60,0.45);
   ">
-    My Programming Languages
+    ⚡ MY PROGRAMMING ARSENAL ⚡
   </h1>
+
+  <div style="
+    margin-top:12px;
+    height:3px;
+    width:65%;
+    background:linear-gradient(90deg,transparent,#ff003c,transparent);
+    box-shadow:0 0 12px #ff003c;
+  "></div>
+
 </div>
+
 
 
 <table>
