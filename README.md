@@ -16,7 +16,8 @@ I am Uttaran
 
 <p align="center">
 <a href="https://github.com/uttaranchakraborty">
-  <img height="180em" src=""/>
+  <img height="180em" src="<img width="1536" height="558" alt="ChatGPT Image Feb 9, 2026, 04_47_11 PM" src="https://github.com/user-attachments/assets/202b5fcf-5c53-4f7a-ab50-c3fa6b3884a6"/>
+   "/>
 </a>
 </p>
 
