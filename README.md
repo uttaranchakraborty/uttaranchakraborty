@@ -186,7 +186,7 @@ I am Uttaran
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=ff0000&logoColor=white&style=for-the-badge" height="35"/>
   </a>
   
-  <a href="https://discord.com/users/" target="_blank">
+  <a href="https://discord.com/users/bohemi333" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=ff0000&logoColor=white&style=for-the-badge" height="35"/>
   </a>
   
@@ -194,11 +194,11 @@ I am Uttaran
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=ff0000&logoColor=white&style=for-the-badge" height="35"/>
   </a>
   
-  <a href="https://t.me/uttaran" target="_blank">
+  <a href="https://t.me/MrRabbit_008" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=ff0000&logoColor=white&style=for-the-badge" height="35"/>
   </a>
   
-  <a href="https://github.com/M1778M" target="_blank">
+  <a href="https://github.com/uttaranchakraborty" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=ff0000&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 </div>
