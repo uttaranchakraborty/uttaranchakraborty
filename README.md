@@ -5,8 +5,13 @@ I am Uttaran
 <img src="https://komarev.com/ghpvc/?username=M1778M&label=Profile%20views&color=ff0000&style=flat"/>
 </h2>
 
+<p align="center">
+  <img 
+    src="https://images.steamusercontent.com/ugc/939432316730598692/998DF3BE9614B453D17E9776752BB36BCE2C8970/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    width="720"
+    style="margin-left:140px;">
+</p>
 
-<img align="center" width="700" src="https://images.steamusercontent.com/ugc/939432316730598692/998DF3BE9614B453D17E9776752BB36BCE2C8970/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
 
 <p align="center">
 <a href="https://github.com/uttaranchakraborty">
