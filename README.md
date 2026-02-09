@@ -32,21 +32,45 @@ I am Uttaran
     inset 0 0 35px rgba(255,0,60,0.15);
 ">
 
+  <div align="center" style="
+  width:88%;
+  margin:auto;
+  padding:34px 20px;
+  border-radius:22px;
+  background: radial-gradient(circle at top,#001a00,#00110a 60%,#000000);
+  border:1.5px solid rgba(0,255,120,0.35);
+  box-shadow:
+    0 0 30px rgba(0,255,120,0.35),
+    inset 0 0 35px rgba(0,255,120,0.18);
+">
+
   <h1 style="
     margin:0;
     font-size:54px;
     font-weight:900;
     letter-spacing:3px;
     text-transform:uppercase;
-    background: linear-gradient(90deg,#ff003c,#ff4d8d,#ff003c);
+    background: linear-gradient(90deg,#00ff88,#00ffaa,#00ff88);
     -webkit-background-clip:text;
     -webkit-text-fill-color:transparent;
     text-shadow:
-      0 0 12px rgba(255,0,60,0.7),
-      0 0 28px rgba(255,0,60,0.45);
+      0 0 10px #00ff88,
+      0 0 25px rgba(0,255,140,0.9),
+      0 0 45px rgba(0,255,140,0.6);
   ">
-    ⚡ MY PROGRAMMING ARSENAL ⚡
+    MY PROGRAMMING LANGUAGES
   </h1>
+
+  <div style="
+    margin-top:14px;
+    height:3px;
+    width:65%;
+    background:linear-gradient(90deg,transparent,#00ff88,transparent);
+    box-shadow:0 0 12px #00ff88;
+  "></div>
+
+</div>
+
 
   <div style="
     margin-top:12px;
