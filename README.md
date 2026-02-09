@@ -1,4 +1,4 @@
-<h2 align="left">I am Uttaran<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnI4Ym5xbW96OG45dWxhd3FtMzZ0bWY5NTI5Z2p2azl3aGNqd2R2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsCevAab5ufj37BeGR/giphy.gif" width="35"> A normal developer :( <img src="https://komarev.com/ghpvc/?username=M1778M&label=Profile%20views&color=0e75b6&style=flat"/></h2>
+<h2 align="left">I am Uttaran<img src="![haxing](https://github.com/user-attachments/assets/d712f33d-b055-4e48-9269-5820ddd9f61e)" width="35"> A normal developer :( <img src="https://komarev.com/ghpvc/?username=M1778M&label=Profile%20views&color=0e75b6&style=flat"/></h2>
 
 
 <img align="right" height="200" src="https://i.giphy.com/wXo9rzjkBBk7m.webp"/>
